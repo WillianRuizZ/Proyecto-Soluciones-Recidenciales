@@ -21,4 +21,8 @@
 	  <ProjectReference Include="..\SolucionesRecidnciales.Domain\SolucionesRecidnciales.Domain.csproj" />
 	</ItemGroup>
 
+	<ItemGroup>
+	  <Folder Include="Queries\" />
+	</ItemGroup>
+
 </Project>
